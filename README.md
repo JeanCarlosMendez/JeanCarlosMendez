@@ -1,107 +1,50 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://google.com">CostaGrammer</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.imgur.com/LLFGstv.jpeg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![YouTube Channel](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/costagrammer?sub_confirmation=1)
+[![Linkedin](https://img.shields.io/badge/Linkedin-1e7dad?logo=linkedin)](www.linkedin.com/in/jean-carlos-mendez-7ab547291)
+[![Linkedin](https://img.shields.io/badge/Portafolio-000000?logo=github)](www.error.com)
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+Soy un apasionado ingeniero de software Junior con un enfoque en el diseño web y el desarrollo de aplicaciones. Tengo experiencia en la creación de sitios web atractivos y funcionales, así como en el desarrollo de aplicaciones eficientes. He tenido el privilegio de participar en proyectos impactantes, como la creación de sitios web para mejorar la experiencia del usuario. Mi objetivo es seguir creciendo profesionalmente y contribuir a proyectos emocionantes que desafíen mis habilidades y conocimientos.
 
-## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>
+- 🎥 Te enseño a programar [Youtube](https://youtube.com/costagrammer?sub_confirmation=1)
 
-<td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+## Tecnologias
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
+<table class="table">
+  <tbody>
+   <tr>
+    <th scope="row"><!--1--></th>
+    <td> <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat-square](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&labelColor=FFFF00&color=000000"> </td>
+    <td> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000"> </td>
+    <td> <img alt="php" src="https://img.shields.io/badge/PHP-white?logo=php&logoColor=ffffff&labelColor=572364&color=000000"> </td>
+    <td> <img alt="Java" src="https://img.shields.io/badge/Java-white?logo=java&logoColor=ffffff&labelColor=0084ff&color=000000"> </td>
+    <!-- <td> <img alt="csharp" src="https://img.shields.io/badge/C%23_.NET-path?style=flat-square&logo=.net&labelColor=8A2BE2&color=000000"> </td> -->
+   </tr>
 
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
+   <tr>
+    <th scope="row"><!--2--></th>
+    <td> <img alt="HTML_CSS" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=internet&label=HTML&labelColor=orange"> </td> 
+    <td> <img alt="Boostrap" src="https://img.shields.io/badge/Boostrap-path?style=flat&logo=bootstrap&labelColor=ffffff&color=000000"> </td>
+    <td> <img alt="node" src="https://img.shields.io/badge/n⬢de.js-blue?style=flat-square](https://img.shields.io/badge/style=flat-square&logo=node.js&labelColor=000000&color=008f39"> </td>
+   </tr>
 
-### ⚙️ &nbsp;GitHub Analytics
+   <tr>
+    <th scope="row"><!--3--></th>
+    <td> <img alt="linux" src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=000000&labelColor=ffe900&color=000000"> </td>
+    <td> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=Mysql&logoColor=white&labelColor=00aae4"> </td>
+    <td> <img alt="Xampp" src="https://img.shields.io/badge/Xampp-black?style=flat-square&logo=Xampp&logoColor=white&labelColor=ffa800"> </td>
+   </tr>
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+   <tr>
+    <th scope="row"><!--4--></th>
+    <td> <img alt="Jira" src="https://img.shields.io/badge/❖%20Jira-blue?logo=Jira&labelColor=blue&color=000000"> </td>
+    <td> <!-- <img alt="androind" src="https://img.shields.io/badge/IDE_AndroidStudio-path?style=flat-square&logo=android&labelColor=ffffff&color=000000"> --> </td>
+   </tr>
+        
+  </tbody>
+</table>
