@@ -15,9 +15,9 @@ Soy un apasionado ingeniero de software Junior con un enfoque en el diseño web 
 
 ## Lenguaje Principal
 
-<img alt="C#" src="https://img.shields.io/badge/C%23_.NET-purple?style=flat-square&logo=.net&logoColor=white&labelColor=8A2BE2">
+<img alt="C#" src="https://img.shields.io/badge/C%23_.NET-purple?style=flat-square&logo=.net&logoColor=white&labelColor=8A2BE2"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000"> <img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-black?style=flat-square&logo=devexpress&logoColor=ffffff&labelColor=ff7200&color=000000">
 
-- Con un año de experiencia trabajando con esta tecnología.
+- Con un año de experiencia trabajando con estas tecnologías.
 
 ## Tecnologías
 
