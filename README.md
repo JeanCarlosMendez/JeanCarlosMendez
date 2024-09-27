@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://google.com" target="_blank">CostaGrammer</a> 👋</h1>
+  <h1 align="center">Hola, soy <a href="https://portfolio-jean-dev.vercel.app/" target="_blank">CostaGrammer</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/iGoUeD8.jpeg">
 
@@ -7,19 +7,19 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-1e7dad?logo=linkedin)](https://www.linkedin.com/in/jean-carlos-mendez-7ab547291)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=github)](https://www.error.com)
 
-## Sobre mi
+## About Me
 
-Soy un apasionado ingeniero de software Junior con un enfoque en el diseño web y el desarrollo de aplicaciones. Tengo experiencia en la creación de sitios web atractivos y funcionales, así como en el desarrollo de aplicaciones eficientes. He tenido el privilegio de participar en proyectos impactantes, como la creación de sitios web para mejorar la experiencia del usuario. Mi objetivo es seguir creciendo profesionalmente y contribuir a proyectos emocionantes que desafíen mis habilidades y conocimientos.
+I am a passionate Junior Software Engineer with a focus on web design and application development. I have experience in creating attractive and functional websites, as well as developing efficient applications. I have had the privilege of participating in impactful projects, such as creating websites to enhance user experience. My goal is to continue growing professionally and contribute to exciting projects that challenge my skills and knowledge.
 
-- 🎥 Te enseño a programar [Youtube](https://youtube.com/costagrammer)
+- 🎥 I Teach You to Code [Youtube](https://youtube.com/costagrammer)
 
-## Lenguaje Principal
+## Main Language
 
 <img alt="C#" src="https://img.shields.io/badge/C%23_.NET-purple?style=flat-square&logo=.net&logoColor=white&labelColor=8A2BE2"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000"> <img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-black?style=flat-square&logo=devexpress&logoColor=ffffff&labelColor=ff7200&color=000000">
 
-- Con un año de experiencia trabajando con estas tecnologías.
+- With one year of experience working with these technologies.
 
-## Tecnologías
+## Skills
 
 <table>
   <tbody>
