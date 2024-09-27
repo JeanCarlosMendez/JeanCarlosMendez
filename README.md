@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://google.com" target="_blank">CostaGrammer</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/LLFGstv.jpeg">
+<img src="https://i.imgur.com/iGoUeD8.jpeg">
 
 [![YouTube Channel](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/costagrammer)
 [![Linkedin](https://img.shields.io/badge/Linkedin-1e7dad?logo=linkedin)](https://www.linkedin.com/in/jean-carlos-mendez-7ab547291)
