@@ -1,10 +1,9 @@
-<div align="center">
+
   <h1 align="center">Hello, I am <a href="https://portfolio-jean-dev.vercel.app/" target="_blank">CostaGrammer</a> </h1>
-  [![YouTube Channel](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/costagrammer)
+[![YouTube Channel](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/costagrammer)
   [![Linkedin](https://img.shields.io/badge/Linkedin-1e7dad?logo=linkedin)](https://www.linkedin.com/in/jean-carlos-mendez-7ab547291)
   [![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=github)](https://www.error.com)
-</div>
-
+  
 ## About Me
 
 I am a passionate Junior Software Engineer with a focus on web design and application development. I have experience in creating attractive and functional websites, as well as developing efficient applications. I have had the privilege of participating in impactful projects, such as creating websites to enhance user experience. My goal is to continue growing professionally and contribute to exciting projects that challenge my skills and knowledge.
