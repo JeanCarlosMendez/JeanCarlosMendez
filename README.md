@@ -1,7 +1,8 @@
 <div align="center">
-  <h1 align="center">Hello, I am <a href="https://portfolio-jean-dev.vercel.app/" target="_blank">CostaGrammer</a> [![YouTube Channel](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/costagrammer)
-[![Linkedin](https://img.shields.io/badge/Linkedin-1e7dad?logo=linkedin)](https://www.linkedin.com/in/jean-carlos-mendez-7ab547291)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=github)](https://www.error.com)</h1>
+  <h1 align="center">Hello, I am <a href="https://portfolio-jean-dev.vercel.app/" target="_blank">CostaGrammer</a> </h1>
+  [![YouTube Channel](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/costagrammer)
+  [![Linkedin](https://img.shields.io/badge/Linkedin-1e7dad?logo=linkedin)](https://www.linkedin.com/in/jean-carlos-mendez-7ab547291)
+  [![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=github)](https://www.error.com)
 </div>
 
 ## About Me
