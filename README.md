@@ -1,47 +1,127 @@
+# 👋 Hi, I'm CostaGrammer
 
-  <h1 align="center">Hello, I am <a href="https://portfolio-jean-dev.vercel.app/" target="_blank">CostaGrammer</a> </h1>
-[![YouTube Channel](https://img.shields.io/badge/Youtube-e6320b?logo=youtube)](https://youtube.com/costagrammer)
-  [![Linkedin](https://img.shields.io/badge/Linkedin-1e7dad?logo=linkedin)](https://www.linkedin.com/in/jean-carlos-mendez-7ab547291)
-  [![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=github)](https://www.error.com)
-  
-## About Me
+### Software Developer | .NET Engineer | Backend & Full-Stack Development
 
-I am a passionate Junior Software Engineer with a focus on web design and application development. I have experience in creating attractive and functional websites, as well as developing efficient applications. I have had the privilege of participating in impactful projects, such as creating websites to enhance user experience. My goal is to continue growing professionally and contribute to exciting projects that challenge my skills and knowledge.
+<p align="center">
+  <a href="https://portfolio-jean-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jean-carlos-mendez-7ab547291">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/costagrammer">
+    <img src="https://img.shields.io/badge/YouTube-CostaGrammer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
-- 🎥 I Teach You to Code [Youtube](https://youtube.com/costagrammer)
+---
 
-## Main Language
+## 👨‍💻 About Me
 
-<img alt="C#" src="https://img.shields.io/badge/C%23_.NET-purple?style=flat-square&logo=.net&logoColor=white&labelColor=8A2BE2"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000"> <img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-black?style=flat-square&logo=devexpress&logoColor=ffffff&labelColor=ff7200&color=000000">
+I'm a Software Developer focused on building reliable, secure, and maintainable software solutions using the **Microsoft .NET ecosystem**.
 
-- With one year of experience working with these technologies.
+My experience includes developing enterprise applications, REST APIs, database-driven systems, and web applications using modern development practices and established software architectures.
 
-## Skills
+I work with **C#, .NET 8, ASP.NET Core, .NET Framework, SQL Server, and JavaScript**, with an emphasis on backend development, API integration, business logic, and database optimization.
 
-<table>
-  <tbody>
-    <tr>
-      <td> <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&labelColor=FFFF00&color=000000"> </td>
-      <td> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000"> </td>
-      <td> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-path?style=flat&logo=bootstrap&labelColor=ffffff&color=000000"></td>
-      <td> <img alt="C#" src="https://img.shields.io/badge/C%23_.NET-purple?style=flat-square&logo=.net&logoColor=white&labelColor=8A2BE2"> </td>
-    </tr>
-    <tr>
-      <td> <img alt="Linux" src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=000000&labelColor=ffe900&color=000000"> </td>
-      <td> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white&labelColor=00aae4"> </td>
-      <td> <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-black?style=flat-square&logo=xampp&logoColor=white&labelColor=ffa800"> </td>
-      <td> <img alt="Java" src="https://img.shields.io/badge/Java-white?logo=openjdk&logoColor=ffffff&labelColor=0084ff&color=000000"> </td>
-    </tr>
-    <tr>
-      <td> <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=ffffff"> </td>
-      <td> <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=ffffff"> </td>
-      <td> <img alt="Jira" src="https://img.shields.io/badge/Jira-blue?logo=jira&logoColor=white&labelColor=0052CC"> </td>
-      <td> <img alt="PHP" src="https://img.shields.io/badge/PHP-white?logo=php&logoColor=ffffff&labelColor=572364&color=000000"> </td>
-    </tr>
-    <tr>
-        <td> <img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-black?style=flat-square&logo=devexpress&logoColor=ffffff&labelColor=ff7200&color=000000"> </td>
-        <td> <img alt="Angular" src="https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular&logoColor=ffffff&labelColor=dd0031&color=000000"> </td>
-        <td> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-green?style=flat-        square&logo=spring&logoColor=ffffff&labelColor=6db33f&color=000000"> </td>
-    </tr>
-  </tbody>
-</table>
+I also explore independent software projects, mobile development, automation, and AI-powered integrations to continuously expand my technical skills.
+
+- 🔭 Working on enterprise software and independent development projects.
+- ⚙️ Focused on backend engineering, REST APIs, and SQL Server.
+- 🔐 Interested in application security, authentication, and secure software architecture.
+- 📱 Exploring Android development, Flutter, and AI integrations.
+- 🎥 Sharing programming content through [YouTube](https://youtube.com/costagrammer).
+- 🌎 Based in Colombia | Open to remote opportunities.
+
+## 🛠️ Tech Stack
+
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+### Databases & Data Access
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logoColor=white" alt="DevExpress"/>
+  <img src="https://img.shields.io/badge/DevExtreme-FF7200?style=for-the-badge&logoColor=white" alt="DevExtreme"/>
+</p>
+
+### Tools, Security & Other Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="IIS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+</p>
+
+## 🏗️ What I Work On
+
+- **Enterprise Software:** Business applications, ERP modules, and maintainable layered architectures.
+- **Backend Engineering:** ASP.NET Core APIs, service layers, business logic, and API integrations.
+- **Database Development:** SQL Server, stored procedures, T-SQL, and data access using Microsoft.Data.SqlClient.
+- **Application Security:** Authentication, JWT, RSA, session management, secure configuration, and web application hardening.
+- **Web Development:** ASP.NET Core MVC, Razor Views, JavaScript, jQuery, and DevExpress components.
+- **Independent Projects:** Android applications, Flutter, desktop software, and integrations with generative AI APIs.
+
+## 🚀 Featured Projects
+
+### AVG Tunnel VPN
+Android application development using Java, with backend integration and API-driven functionality.
+
+**Technologies:** Java · Android · .NET · SQL Server · REST APIs
+
+### CatalogoVentas
+Desktop application focused on sales catalog management and local data persistence.
+
+**Technologies:** C# · .NET · Windows Forms · SQLite
+
+### SODELTA
+Independent software initiative focused on technology, innovation, and continuous evolution.
+
+**Focus:** Software development · Digital solutions · Technology
+
+> Explore my repositories to discover more projects, experiments, and technical implementations.
+
+## 📈 My Development Philosophy
+
+- Write clean, maintainable, and reusable code.
+- Build secure applications with clear separation of responsibilities.
+- Design APIs that are reliable and easy to integrate.
+- Use database-driven solutions with well-defined data access layers.
+- Learn continuously and turn ideas into working software.
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on software projects, exchanging technical knowledge, and exploring new opportunities in backend and full-stack development.
+
+**Let's build something meaningful.**
+
+<p align="center">
+  <a href="https://portfolio-jean-dev.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/jean-carlos-mendez-7ab547291">LinkedIn</a> ·
+  <a href="https://youtube.com/costagrammer">YouTube</a>
+</p>
