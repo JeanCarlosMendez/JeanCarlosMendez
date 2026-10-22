@@ -2,7 +2,7 @@
 
 ### Desarrollador de Software | Backend & Full Stack
 
-<p align="center">
+<p align="start">
   <a href="https://portfolio-jean-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-Visitar%20sitio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
