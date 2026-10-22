@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy CostaGrammer
 
-### Desarrollador de Software | Especialista en .NET | Backend & Full Stack
+### Desarrollador de Software | Backend & Full Stack
 
 <p align="center">
   <a href="https://portfolio-jean-dev.vercel.app/">
