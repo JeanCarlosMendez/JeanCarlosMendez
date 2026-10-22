@@ -1,13 +1,13 @@
-# 👋 Hi, I'm CostaGrammer
+# 👋 ¡Hola! Soy CostaGrammer
 
-### Software Developer | .NET Engineer | Backend & Full-Stack Development
+### Desarrollador de Software | Especialista en .NET | Backend & Full Stack
 
 <p align="center">
   <a href="https://portfolio-jean-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portafolio-Visitar%20sitio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
   </a>
   <a href="https://www.linkedin.com/in/jean-carlos-mendez-7ab547291">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://youtube.com/costagrammer">
     <img src="https://img.shields.io/badge/YouTube-CostaGrammer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -16,36 +16,38 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-I'm a Software Developer focused on building reliable, secure, and maintainable software solutions using the **Microsoft .NET ecosystem**.
+Soy desarrollador de software enfocado en el diseño, desarrollo y mantenimiento de soluciones tecnológicas seguras, escalables y eficientes.
 
-My experience includes developing enterprise applications, REST APIs, database-driven systems, and web applications using modern development practices and established software architectures.
+Trabajo principalmente con el ecosistema **Microsoft .NET**, desarrollando aplicaciones empresariales, APIs REST, sistemas de gestión y soluciones web orientadas a las necesidades del negocio.
 
-I work with **C#, .NET 8, ASP.NET Core, .NET Framework, SQL Server, and JavaScript**, with an emphasis on backend development, API integration, business logic, and database optimization.
+Tengo experiencia trabajando con **C#, .NET 8, .NET Framework, ASP.NET Core MVC, SQL Server y JavaScript**, participando en la implementación de lógica de negocio, integración entre sistemas, acceso a datos y mejoras de seguridad.
 
-I also explore independent software projects, mobile development, automation, and AI-powered integrations to continuously expand my technical skills.
+Me interesa construir software con buenas prácticas de desarrollo, arquitecturas organizadas y código mantenible, sin dejar de explorar nuevas tecnologías y desarrollar proyectos propios.
 
-- 🔭 Working on enterprise software and independent development projects.
-- ⚙️ Focused on backend engineering, REST APIs, and SQL Server.
-- 🔐 Interested in application security, authentication, and secure software architecture.
-- 📱 Exploring Android development, Flutter, and AI integrations.
-- 🎥 Sharing programming content through [YouTube](https://youtube.com/costagrammer).
-- 🌎 Based in Colombia | Open to remote opportunities.
+- 💻 Desarrollo de aplicaciones empresariales y soluciones web.
+- ⚙️ Construcción e integración de APIs REST con .NET.
+- 🗄️ Desarrollo y optimización de procedimientos almacenados en SQL Server.
+- 🔐 Seguridad de aplicaciones, autenticación y protección de APIs.
+- 📱 Desarrollo de aplicaciones Android y exploración de Flutter.
+- 🤖 Integración de servicios de inteligencia artificial mediante APIs.
+- 🎥 Comparto contenido sobre programación en [YouTube](https://youtube.com/costagrammer).
+- 🌎 Colombia | Interesado en nuevos retos y oportunidades profesionales.
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías y herramientas
 
-### Backend Development
+### Backend y desarrollo .NET
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST"/>
 </p>
 
-### Databases & Data Access
+### Bases de datos
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
@@ -54,7 +56,7 @@ I also explore independent software projects, mobile development, automation, an
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-### Frontend Development
+### Desarrollo web y frontend
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -66,62 +68,71 @@ I also explore independent software projects, mobile development, automation, an
   <img src="https://img.shields.io/badge/DevExtreme-FF7200?style=for-the-badge&logoColor=white" alt="DevExtreme"/>
 </p>
 
-### Tools, Security & Other Technologies
+### Seguridad, herramientas e infraestructura
 
 <p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/RSA-334155?style=for-the-badge&logoColor=white" alt="RSA"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="IIS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="IIS"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </p>
 
-## 🏗️ What I Work On
+## 🏗️ Áreas de experiencia
 
-- **Enterprise Software:** Business applications, ERP modules, and maintainable layered architectures.
-- **Backend Engineering:** ASP.NET Core APIs, service layers, business logic, and API integrations.
-- **Database Development:** SQL Server, stored procedures, T-SQL, and data access using Microsoft.Data.SqlClient.
-- **Application Security:** Authentication, JWT, RSA, session management, secure configuration, and web application hardening.
-- **Web Development:** ASP.NET Core MVC, Razor Views, JavaScript, jQuery, and DevExpress components.
-- **Independent Projects:** Android applications, Flutter, desktop software, and integrations with generative AI APIs.
+- **Desarrollo empresarial:** aplicaciones de gestión, módulos ERP y soluciones orientadas a procesos de negocio.
+- **Arquitectura de software:** separación por capas, organización de responsabilidades y mantenimiento de aplicaciones existentes.
+- **Desarrollo backend:** APIs REST, controladores, servicios, lógica de negocio e integración entre sistemas.
+- **Bases de datos:** SQL Server, T-SQL, procedimientos almacenados y acceso a datos mediante Microsoft.Data.SqlClient.
+- **Desarrollo web:** ASP.NET Core MVC, Razor Views, JavaScript, jQuery y componentes DevExpress/DevExtreme.
+- **Seguridad de aplicaciones:** autenticación mediante JWT y RSA, gestión de sesiones, encabezados de seguridad y fortalecimiento de aplicaciones web.
+- **Infraestructura:** publicación y mantenimiento de aplicaciones en IIS.
+- **Proyectos independientes:** aplicaciones Android, software de escritorio e integraciones con servicios de inteligencia artificial.
 
-## 🚀 Featured Projects
+## 🚀 Proyectos destacados
 
-### AVG Tunnel VPN
-Android application development using Java, with backend integration and API-driven functionality.
+### 🔹 AVG Tunnel VPN
 
-**Technologies:** Java · Android · .NET · SQL Server · REST APIs
+Proyecto de aplicación Android con integración de servicios backend y comunicación mediante APIs.
 
-### CatalogoVentas
-Desktop application focused on sales catalog management and local data persistence.
+**Tecnologías:** Java · Android · .NET · SQL Server · APIs REST
 
-**Technologies:** C# · .NET · Windows Forms · SQLite
+### 🔹 CatalogoVentas
 
-### SODELTA
-Independent software initiative focused on technology, innovation, and continuous evolution.
+Aplicación de escritorio orientada a la gestión de catálogos de ventas y almacenamiento local de información.
 
-**Focus:** Software development · Digital solutions · Technology
+**Tecnologías:** C# · .NET · Windows Forms · SQLite
 
-> Explore my repositories to discover more projects, experiments, and technical implementations.
+### 🔹 SODELTA
 
-## 📈 My Development Philosophy
+Iniciativa independiente enfocada en el desarrollo de software y la creación de soluciones tecnológicas.
 
-- Write clean, maintainable, and reusable code.
-- Build secure applications with clear separation of responsibilities.
-- Design APIs that are reliable and easy to integrate.
-- Use database-driven solutions with well-defined data access layers.
-- Learn continuously and turn ideas into working software.
+**Enfoque:** Tecnología · Innovación · Desarrollo de software
 
-## 🤝 Let's Connect
+> Explora mis repositorios para conocer más proyectos, implementaciones y experimentos tecnológicos.
 
-I'm interested in collaborating on software projects, exchanging technical knowledge, and exploring new opportunities in backend and full-stack development.
+## 💡 Mi filosofía de desarrollo
 
-**Let's build something meaningful.**
+- Escribir código limpio, organizado y fácil de mantener.
+- Diseñar soluciones seguras desde la arquitectura.
+- Construir APIs confiables y fáciles de integrar.
+- Mantener una separación clara entre la lógica de negocio y el acceso a datos.
+- Resolver problemas reales mediante soluciones prácticas y eficientes.
+- Aprender continuamente y convertir ideas en proyectos funcionales.
+
+## 🤝 Conectemos
+
+Siempre estoy interesado en aprender, compartir conocimientos, colaborar en proyectos y asumir nuevos retos profesionales en el desarrollo de software.
 
 <p align="center">
-  <a href="https://portfolio-jean-dev.vercel.app/">Portfolio</a> ·
+  <strong>Construyendo soluciones. Aprendiendo continuamente. Evolucionando con la tecnología. 🚀</strong>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-jean-dev.vercel.app/">Portafolio</a> ·
   <a href="https://www.linkedin.com/in/jean-carlos-mendez-7ab547291">LinkedIn</a> ·
   <a href="https://youtube.com/costagrammer">YouTube</a>
 </p>
