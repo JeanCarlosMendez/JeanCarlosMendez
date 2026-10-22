@@ -92,28 +92,6 @@ Me interesa construir software con buenas prácticas de desarrollo, arquitectura
 - **Infraestructura:** publicación y mantenimiento de aplicaciones en IIS.
 - **Proyectos independientes:** aplicaciones Android, software de escritorio e integraciones con servicios de inteligencia artificial.
 
-## 🚀 Proyectos destacados
-
-### 🔹 AVG Tunnel VPN
-
-Proyecto de aplicación Android con integración de servicios backend y comunicación mediante APIs.
-
-**Tecnologías:** Java · Android · .NET · SQL Server · APIs REST
-
-### 🔹 CatalogoVentas
-
-Aplicación de escritorio orientada a la gestión de catálogos de ventas y almacenamiento local de información.
-
-**Tecnologías:** C# · .NET · Windows Forms · SQLite
-
-### 🔹 SODELTA
-
-Iniciativa independiente enfocada en el desarrollo de software y la creación de soluciones tecnológicas.
-
-**Enfoque:** Tecnología · Innovación · Desarrollo de software
-
-> Explora mis repositorios para conocer más proyectos, implementaciones y experimentos tecnológicos.
-
 ## 💡 Mi filosofía de desarrollo
 
 - Escribir código limpio, organizado y fácil de mantener.
